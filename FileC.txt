@@ -1,1 +1,2 @@
 This is file C of Feature A
+Changed
